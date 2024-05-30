@@ -1,3 +1,10 @@
+data/latest-repo/
+data/latest-docs/
+data/existing-queries/
+data/chat/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
